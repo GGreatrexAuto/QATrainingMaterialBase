@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+EX13.1|C:\labs\solutions\13 Multitasking\EX13.1.py
+SharePrices|C:\labs\solutions\13 Multitasking\SharePrices.py
+client|C:\labs\solutions\13 Multitasking\client.py
+copy_multiprocess|C:\labs\solutions\13 Multitasking\copy_multiprocess.py
+copy_threaded|C:\labs\solutions\13 Multitasking\copy_threaded.py
+mytimer|C:\labs\solutions\13 Multitasking\mytimer.py
+stems|C:\labs\solutions\13 Multitasking\stems.py
+stems_a|C:\labs\solutions\13 Multitasking\stems_a.py
+stems_b|C:\labs\solutions\13 Multitasking\stems_b.py
+stems_c|C:\labs\solutions\13 Multitasking\stems_c.py

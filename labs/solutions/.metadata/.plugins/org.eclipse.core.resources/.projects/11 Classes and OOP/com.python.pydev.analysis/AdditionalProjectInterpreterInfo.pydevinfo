@@ -1,0 +1,55 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\11 Classes and OOP\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Countrya|0|C:\labs\solutions\11 Classes and OOP\Countrya.py
+Countryb|0|C:\labs\solutions\11 Classes and OOP\Countryb.py
+Countryc|0|C:\labs\solutions\11 Classes and OOP\Countryc.py
+file|0|C:\labs\solutions\11 Classes and OOP\file.py
+Countryd|0|C:\labs\solutions\11 Classes and OOP\Countryd.py
+Countrye|0|C:\labs\solutions\11 Classes and OOP\Countrye.py
+Countryg|0|C:\labs\solutions\11 Classes and OOP\Countryg.py
+Countryf|0|C:\labs\solutions\11 Classes and OOP\Countryf.py
+Country|0|C:\labs\solutions\11 Classes and OOP\Country.py
+user|0|C:\labs\solutions\11 Classes and OOP\user.py
+-- END DISKCACHE
+-- START DICTIONARY
+15
+10=Countrya
+9=Countryb
+8=Countryc
+6=Countryd
+5=Countrye
+12=File
+15=TextFile
+2=Country
+14=BinFile
+13=File.__init__
+1=file
+3=Countryg
+4=Countryf
+11=Country.__init__
+7=user
+-- END DICTIONARY
+-- START TREE 1
+4
+bin|1|BinFile!9@
+cou|9|Country!17@Country!25@Country!33@Country!41@Country!49@countries!59@Country!65@Country!73@Country!81@
+fil|1|File!9@
+tex|1|TextFile!9@
+-- END TREE
+-- START TREE 2
+12
+__a|10|__add__!2&42@__attr!11&75@__attr!11&83@__add__!2&34@__attr!11&67@__attr!11&27@__attr!11&43@__attr!11&35@__attr!11&51@__add__!2&26@
+__e|2|__eq__!2&26@__eq__!2&34@
+__i|8|__init__!12&10@__init__!2&74@__init__!2&66@__init__!2&50@__init__!2&42@__init__!2&34@__init__!2&26@__init__!2&82@
+__s|8|__sub__!2&34@__sub__!2&26@__str__!2&26@__str__!2&34@__str__!2&42@__sub__!2&42@__str__!2&50@__str__!2&66@
+_fi|1|_filename!13&11@
+con|2|contents!14&10@contents!15&10@
+fil|2|file1!14&11@file2!14&11@
+ind|8|index!2&75@index!2&27@index!2&67@index!2&43@index!2&51@index!2&83@index!2&35@index!2&19@
+nam|4|name!2&42@name!2&50@name!2&26@name!2&34@
+pop|4|population!2&26@population!2&42@population!2&34@population!2&50@
+pri|6|print!2&66@print!2&50@print!2&74@print!2&26@print!2&42@print!2&34@
+siz|1|size!12&10@
+-- END TREE

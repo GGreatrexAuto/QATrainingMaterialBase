@@ -1,0 +1,37 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\03 Flow Control\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+weekday|0|C:\labs\solutions\03 Flow Control\weekday.py
+leap|0|C:\labs\solutions\03 Flow Control\leap.py
+Ex3.2|0|C:\labs\solutions\03 Flow Control\Ex3.2.py
+Ex3.3|0|C:\labs\solutions\03 Flow Control\Ex3.3.py
+Ex3|0|C:\labs\solutions\03 Flow Control\Ex3.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+2=weekday
+5=leap
+1=Ex3.2
+4=Ex3.3
+3=Ex3
+-- END DICTIONARY
+-- START TREE 1
+13
+cou|1|counter!11@
+d|1|d!19@
+dat|1|date!19@
+day|1|days!19@
+dir|1|dir!27@
+lim|1|limit!11@
+m|1|m!19@
+pat|1|pattern!27@
+pin|1|pin!11@
+sup|1|supplied_pin!11@
+var|1|var!35@
+y|2|y!19@y!43@
+z|1|z!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

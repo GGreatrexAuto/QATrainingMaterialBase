@@ -1,0 +1,22 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\projects\.metadata\.plugins\org.eclipse.core.resources\.projects\04 String Handling\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+greek|0|C:\labs\projects\04 String Handling\greek.py
+sep|0|C:\labs\projects\04 String Handling\sep.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=greek
+1=sep
+-- END DICTIONARY
+-- START TREE 1
+4
+bel|1|Belgium!11@
+cha|1|char!19@
+gre|1|greek!19@
+pos|1|pos!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

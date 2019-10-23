@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\projects\.metadata\.plugins\org.eclipse.core.resources\.projects\05 Collections\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+SharePrices|0|C:\labs\projects\05 Collections\SharePrices.py
+Ex5.3|0|C:\labs\projects\05 Collections\Ex5.3.py
+Ex5.4|0|C:\labs\projects\05 Collections\Ex5.4.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=SharePrices
+2=Ex5.3
+1=Ex5.4
+-- END DICTIONARY
+-- START TREE 1
+13
+bru|1|brute_force!10@
+dic|1|dictionary!10@
+end|1|end_timer!10@
+i|1|i!11@
+ind|1|index!10@
+inf|1|infunc!10@
+lin|1|line!11@
+loa|1|load_data!10@
+loo|1|LOOP_COUNT!11@
+mac|1|machines!19@
+sha|1|SharePrices!27@
+sta|2|start_time!11@start_timer!10@
+wor|2|words_dict!11@words!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

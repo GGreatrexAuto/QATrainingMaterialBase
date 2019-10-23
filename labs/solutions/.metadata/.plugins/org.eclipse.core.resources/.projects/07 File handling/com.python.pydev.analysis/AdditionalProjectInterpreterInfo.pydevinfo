@@ -1,0 +1,45 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\07 File handling\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Ex7.2|0|C:\labs\solutions\07 File handling\Ex7.2.py
+Ex5.4|0|C:\labs\solutions\07 File handling\Ex5.4.py
+Ex7.1a|0|C:\labs\solutions\07 File handling\Ex7.1a.py
+messier|0|C:\labs\solutions\07 File handling\messier.py
+Ex7.1|0|C:\labs\solutions\07 File handling\Ex7.1.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+3=Ex7.2
+1=Ex5.4
+5=Ex7.1a
+4=messier
+2=Ex7.1
+-- END DICTIONARY
+-- START TREE 1
+21
+bru|1|brute_force!10@
+cou|2|count!19@country_dict!27@
+db|1|db!27@
+dic|1|dictionary!10@
+end|1|end_timer!10@
+fh|1|fh!35@
+fil|2|file!19@file!43@
+i|1|i!11@
+ind|2|index!10@Index!35@
+inf|1|infunc!10@
+lin|2|line!11@line!35@
+loa|1|load_data!10@
+loo|1|LOOP_COUNT!11@
+m|1|m!43@
+nam|1|name!27@
+num|1|num!35@
+out|1|outp!27@
+por|3|ports!43@port!19@port!43@
+row|1|row!27@
+sta|2|start_time!11@start_timer!10@
+wor|2|words_dict!11@words!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,27 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\06 Regular Expressions\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Ex6b|0|C:\labs\solutions\06 Regular Expressions\Ex6b.py
+Ex6a|0|C:\labs\solutions\06 Regular Expressions\Ex6a.py
+Ex6c|0|C:\labs\solutions\06 Regular Expressions\Ex6c.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=Ex6b
+2=Ex6a
+1=Ex6c
+-- END DICTIONARY
+-- START TREE 1
+7
+are|1|area_district!11@
+inf|3|infile!19@infile!11@infile!27@
+inv|3|invalid!19@invalid!27@invalid!11@
+lin|1|line!11@
+m|3|m!11@m!27@m!19@
+pos|3|postcode!19@postcode!11@postcode!27@
+val|4|valid!27@valid!11@valid_dict!11@valid!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

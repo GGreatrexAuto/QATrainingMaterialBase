@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\projects\.metadata\.plugins\org.eclipse.core.resources\.projects\13 Multitasking\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+SharePrices|0|C:\labs\projects\13 Multitasking\SharePrices.py
+client|0|C:\labs\projects\13 Multitasking\client.py
+stems|0|C:\labs\projects\13 Multitasking\stems.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=SharePrices
+1=client
+2=stems
+-- END DICTIONARY
+-- START TREE 1
+6
+arg|1|argv!11@
+bes|2|best_count!19@best_stem!19@
+das|1|dash!11@
+fil|1|filename!11@
+sha|1|SharePrices!27@
+ste|2|stems!19@stem!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

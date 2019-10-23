@@ -1,0 +1,19 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\projects\.metadata\.plugins\org.eclipse.core.resources\.projects\08 Functions\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Ex8.1|0|C:\labs\projects\08 Functions\Ex8.1.py
+Ex8.2|0|C:\labs\projects\08 Functions\Ex8.2.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Ex8.1
+1=Ex8.2
+-- END DICTIONARY
+-- START TREE 1
+1
+lin|2|lines!11@lines!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

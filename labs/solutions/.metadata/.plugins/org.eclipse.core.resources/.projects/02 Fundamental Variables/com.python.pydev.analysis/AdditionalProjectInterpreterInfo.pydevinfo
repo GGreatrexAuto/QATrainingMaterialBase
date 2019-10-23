@@ -1,0 +1,37 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\02 Fundamental Variables\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+F1|0|C:\labs\solutions\02 Fundamental Variables\F1.py
+ex2.2|0|C:\labs\solutions\02 Fundamental Variables\ex2.2.py
+traj|0|C:\labs\solutions\02 Fundamental Variables\traj.py
+ex2|0|C:\labs\solutions\02 Fundamental Variables\ex2.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=F1
+4=ex2.2
+3=traj
+1=ex2
+-- END DICTIONARY
+-- START TREE 1
+15
+fir|1|first!11@
+fue|3|FuelPerLap!19@Fuel!19@FuelRequirement!19@
+g|1|g!27@
+lap|2|LapOneTime!19@Laps!19@
+las|1|last!11@
+myd|1|mydict!11@
+nam|1|names!11@
+qla|1|QLapTime!19@
+the|1|theta!27@
+tla|1|TLapTime!19@
+v0|1|v0!27@
+var|1|var!35@
+x|1|x!27@
+y|1|y!27@
+y0|1|y0!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

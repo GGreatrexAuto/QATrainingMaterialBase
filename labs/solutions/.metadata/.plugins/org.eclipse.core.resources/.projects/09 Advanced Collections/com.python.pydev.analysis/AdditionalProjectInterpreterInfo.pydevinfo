@@ -1,0 +1,20 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\09 Advanced Collections\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+iGetProcs|0|C:\labs\solutions\09 Advanced Collections\iGetProcs.py
+Ex9.2|0|C:\labs\solutions\09 Advanced Collections\Ex9.2.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=iGetProcs
+2=Ex9.2
+-- END DICTIONARY
+-- START TREE 1
+2
+ige|2|iGetProcs!10@iGetProcs!18@
+pid|1|pids!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

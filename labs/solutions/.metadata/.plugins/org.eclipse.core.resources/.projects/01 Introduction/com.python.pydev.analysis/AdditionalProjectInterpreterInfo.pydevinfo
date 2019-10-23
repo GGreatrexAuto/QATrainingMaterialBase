@@ -1,0 +1,22 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\01 Introduction\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+pickacard|0|C:\labs\solutions\01 Introduction\pickacard.py
+ex1|0|C:\labs\solutions\01 Introduction\ex1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=pickacard
+2=ex1
+-- END DICTIONARY
+-- START TREE 1
+4
+fil|1|filename!11@
+fir|1|first!19@
+las|1|last!19@
+num|1|number!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

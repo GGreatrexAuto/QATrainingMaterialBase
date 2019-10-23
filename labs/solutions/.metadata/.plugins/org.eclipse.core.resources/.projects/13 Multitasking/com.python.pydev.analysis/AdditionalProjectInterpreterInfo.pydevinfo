@@ -1,0 +1,52 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\13 Multitasking\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+SharePrices|0|C:\labs\solutions\13 Multitasking\SharePrices.py
+client|0|C:\labs\solutions\13 Multitasking\client.py
+stems_c|0|C:\labs\solutions\13 Multitasking\stems_c.py
+copy_multiprocess|0|C:\labs\solutions\13 Multitasking\copy_multiprocess.py
+copy_threaded|0|C:\labs\solutions\13 Multitasking\copy_threaded.py
+stems_a|0|C:\labs\solutions\13 Multitasking\stems_a.py
+stems_b|0|C:\labs\solutions\13 Multitasking\stems_b.py
+stems|0|C:\labs\solutions\13 Multitasking\stems.py
+EX13.1|0|C:\labs\solutions\13 Multitasking\EX13.1.py
+mytimer|0|C:\labs\solutions\13 Multitasking\mytimer.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+7=SharePrices
+1=client
+9=stems_c
+3=copy_multiprocess
+5=copy_threaded
+8=stems_a
+10=stems_b
+6=EX13.1
+2=stems
+4=mytimer
+-- END DICTIONARY
+-- START TREE 1
+18
+arg|1|argv!11@
+bes|2|best_count!19@best_stem!19@
+das|1|dash!11@
+end|3|end_timer!26@end_timer!34@end_timer!42@
+fil|1|filename!11@
+num|1|NumThreads!43@
+pro|1|proc!51@
+que|1|queue!43@
+rem|2|RemoveThread!42@RemoveProcess!26@
+rqu|1|rqueue!43@
+rth|1|rth!43@
+sha|1|SharePrices!59@
+sou|1|Source!43@
+sta|6|start_time!43@start_time!35@start_time!27@start_timer!34@start_timer!42@start_timer!26@
+ste|5|stems!19@stem_search!66@stem!19@stem_search!74@stem_search!82@
+tar|1|TargetDir!43@
+tid|1|Tids!43@
+wor|2|WorkerThread!42@WorkerProcess!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,61 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\labs\solutions\.metadata\.plugins\org.eclipse.core.resources\.projects\05 Collections\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+F1|0|C:\labs\solutions\05 Collections\F1.py
+SharePrices|0|C:\labs\solutions\05 Collections\SharePrices.py
+Ex5.3|0|C:\labs\solutions\05 Collections\Ex5.3.py
+Ex5.2|0|C:\labs\solutions\05 Collections\Ex5.2.py
+Ex5.1|0|C:\labs\solutions\05 Collections\Ex5.1.py
+traj|0|C:\labs\solutions\05 Collections\traj.py
+Ex5.4|0|C:\labs\solutions\05 Collections\Ex5.4.py
+Ex5|0|C:\labs\solutions\05 Collections\Ex5.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=F1
+7=SharePrices
+6=Ex5.3
+8=Ex5.2
+2=Ex5.1
+5=traj
+1=Ex5.4
+3=Ex5
+-- END DICTIONARY
+-- START TREE 1
+31
+bru|1|brute_force!10@
+che|1|cheese!19@
+dic|1|dictionary!10@
+dir|2|dirlen!27@dir!27@
+end|1|end_timer!10@
+fil|1|filename!27@
+fue|3|FuelPerLap!35@Fuel!35@FuelRequirement!35@
+g|1|g!43@
+i|1|i!11@
+ind|1|index!10@
+inf|1|infunc!10@
+lap|4|LapTime!35@LapTimes!35@Lap!35@Laps!35@
+lin|1|line!11@
+loa|1|load_data!10@
+loo|1|LOOP_COUNT!11@
+mac|1|machines!51@
+qla|1|QLapTime!35@
+sha|1|SharePrices!59@
+siz|1|size!27@
+sta|2|start_time!11@start_timer!10@
+the|1|theta!43@
+tla|1|TLapTime!35@
+tup|1|tup!67@
+tyr|1|TyreLap!35@
+v0|1|v0!43@
+wor|2|words_dict!11@words!11@
+x|1|x!43@
+x_a|2|x_axis!35@x_axis!43@
+y|1|y!43@
+y0|1|y0!43@
+y_a|1|y_axis!43@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
